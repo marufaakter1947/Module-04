@@ -1,0 +1,26 @@
+.team-member{
+    width: 87%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.card{
+    width: 300px;
+    background-color: #d7d7d7;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+.card img{
+    width: 280px;
+    border-radius: 50%;
+    height: 280px;
+    object-fit: cover;
+
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
