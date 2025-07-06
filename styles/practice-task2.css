@@ -1,0 +1,16 @@
+.form1 label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+
+}
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
